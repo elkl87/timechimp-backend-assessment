@@ -22,3 +22,7 @@ We don't want to restrict you too much so feel free to scope the project to your
 However; make sure there is enough code (written by yourself) to explain your design and approach.
 
 *Be creative, be awesome!*
+
+### Questions or needed help with the setup?
+
+Please feel free to contact [Jochem van Kessel](mailto:j.vankessel@timechimp.com?subject=[Backend Assessment]) or [Lex Tas](mailto:l.tas@timechimp.com?subject=[Backend Assessment])
