@@ -9,7 +9,7 @@
 
 - Open Visual Studio en run app TimeChimp.Backend.Assessment
 
-## Assignment
+## Assessment
 
 Nu.nl, one of Netherlands most-popular newssites, offers RSS feeds. 
 
