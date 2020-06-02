@@ -1,1 +1,1 @@
-# timechimp-backend-assessment
+# TimeChimp.Backend.Assessment
