@@ -25,4 +25,4 @@ However; make sure there is enough code (written by yourself) to explain your de
 
 ### Questions or needed help with the setup?
 
-Please feel free to contact [Jochem van Kessel](mailto:j.vankessel@timechimp.com?subject=[Backend Assessment]) or [Lex Tas](mailto:l.tas@timechimp.com?subject=[Backend Assessment])
+Please feel free to contact [Jochem van Kessel](mailto:j.vankessel@timechimp.com?subject=TimeChimp%20Backend%20Assessment) or [Lex Tas](mailto:l.tas@timechimp.com?subject=TimeChimp%20Backend%20Assessment)
