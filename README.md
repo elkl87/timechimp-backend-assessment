@@ -3,7 +3,7 @@
 ## Setup
 
 - Fork this repo
-- Create a directory `C:\TimeChimpPackages` and copy all packages from `./packages` to this directory
+- Create a directory `C:\TimeChimpPackages` and copy all packages from `./packages` to this directory (or change path in ./nuget.config)
 
 ## Run
 
@@ -23,6 +23,6 @@ However; make sure there is enough code (written by yourself) to explain your de
 
 *Be creative, be awesome!*
 
-### Questions or needed help with the setup?
+### Questions or need some help with the setup?
 
 Please feel free to contact [Jochem van Kessel](mailto:j.vankessel@timechimp.com?subject=TimeChimp%20Backend%20Assessment) or [Lex Tas](mailto:l.tas@timechimp.com?subject=TimeChimp%20Backend%20Assessment)
