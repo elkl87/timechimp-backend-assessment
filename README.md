@@ -7,7 +7,7 @@
 
 ## Run
 
-- Open Visual Studio en run app TimeChimp.Backend.Assessment
+- Open Visual Studio and run app TimeChimp.Backend.Assessment
 
 ## Assessment
 
