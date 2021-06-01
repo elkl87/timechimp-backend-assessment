@@ -11,7 +11,7 @@
 
 ## Assessment
 
-Nu.nl, one of Netherlands most-popular newssites, offers RSS feeds. 
+Nu.nl, one of the Netherlands most-popular newssites, offers RSS feeds. 
 
 With the provided API boilerplate, We would like to see you create:
 - an endpoint to query at least one rss feed
@@ -25,4 +25,4 @@ However; make sure there is enough code (written by yourself) to explain your de
 
 ### Questions or need some help with the setup?
 
-Please feel free to contact [Jochem van Kessel](mailto:j.vankessel@timechimp.com?subject=TimeChimp%20Backend%20Assessment) or [Lex Tas](mailto:l.tas@timechimp.com?subject=TimeChimp%20Backend%20Assessment)
+Please feel free to contact [Jevgeni Rumjantsev](mailto:j.rumjantsev@timechimp.com?subject=TimeChimp%20Backend%20Assessment) or [Dennis Spaan](mailto:d.spaan@timechimp.com?subject=TimeChimp%20Backend%20Assessment)
